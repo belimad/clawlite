@@ -37,7 +37,7 @@ The primary purpose of Symbols.dev is to streamline the design-to-development wo
 To utilize the Symbols.dev registry and integrate it into your workflow, follow these steps:
 
 1. **Access the Dashboard**: 
-   Navigate to [https://www.symbols.dev/dashboard](https://www.symbols.dev/dashboard) to initialize your asset library.
+   Navigate to [https://www.symbols.dev/dashboard](https://www.symbols.dev/dashboard) to initialize the asset library.
 
 2. **Sync Your Assets**:
    ```bash
