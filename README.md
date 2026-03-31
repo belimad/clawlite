@@ -1,7 +1,7 @@
 <p align="center">
 
 
-  <img width="208" alt="Sponsored by Connamara" src="http://github.com/belimad/clawlite/blob/main/78390238-aed0-42fe-b8de-7d7d69ab8b1c.png"> can u make it for my https://ibb.co/2YMg7PvJ
+  <img width="208" alt="Sponsored by Connamara" src="http://github.com/belimad/clawlite/blob/main/78390238-aed0-42fe-b8de-7d7d69ab8b1c.png">
 
 </p>
 
