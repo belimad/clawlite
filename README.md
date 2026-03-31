@@ -7,7 +7,7 @@
 ## 🏗️ System Overview
 **Clawgent** serves as the primary execution layer within the **OpenClaw** ecosystem. It utilizes a sophisticated agentic architecture to facilitate high-performance state management and autonomous decision-making. Designed for quantitative precision, Clawgent ensures seamless telemetry and cross-module synchronization for complex macro-economic and derivative modeling.
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmzFl5VLXQQI1WuTlpOKdnJzKQ4oMNP2Dmw&s
+https://ibb.co/2YMg7PvJ
 
 ## ⚡ Key Features (Isomorphic)
 
