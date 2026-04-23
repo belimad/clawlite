@@ -5,7 +5,7 @@
  
 </p>  
 
-<h1 align="center">🦀 ClawLite</h1>
+<h1 align="center">🦀 RegentXJ77</h1>
 <p align="center"><strong>OpenClaw without the need for servers.</strong></p>
 
 <p align="center">
@@ -16,7 +16,7 @@
  
 ## Overview
 
-**ClawLite** is a stripped-down, local-first execution layer for the **OpenClaw** ecosystem. It is designed for developers who want the OpenClaw workflow without maintaining servers, distributed infrastructure, or long-running backend services.
+**RegentXJ77** is a stripped-down, local-first execution layer for the **Regent** ecosystem. It is designed for developers who want the OpenClaw workflow without maintaining servers, distributed infrastructure, or long-running backend services.
 
 Instead of assuming a cloud deployment model, ClawLite focuses on a simpler runtime: direct execution, minimal operational overhead, and fast setup for local development, prototyping, and lightweight production use cases.
 
