@@ -1,7 +1,5 @@
 <p align="center">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zer0dots/RegentXJ77/main/78390238-aed0-42fe-b8de-7d7d69ab8b1c.png" width="500"/>
-</div>
+  <img src="https://raw.githubusercontent.com/Zer0dots/AGI/main/YOUR-IMAGE-FILENAME.png" width="500" alt="Regent Logo">
 </p>
 
 <h1 align="center">✨ (Real AGI) </h1>
