@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="160" alt="Regent Logo" src="https://raw.githubusercontent.com/kalshi-labs/regent/main/assets/regent_glyph.png">
+  <img width="160" alt="Regent Logo" src="https://github.com/Zer0dots/RegentXJ77/blob/main/78390238-aed0-42fe-b8de-7d7d69ab8b1c.png">
 </p>
 
-<h1 align="center">✨ Regent-Core v2.1: The Probabilistic Logic Layer</h1>
-<p align="center"><strong>Formal Entropy Reduction for Regulated Prediction Markets.</strong></p>
+<h1 align="center">✨ (Real AGI) </h1>
+<p align="center"><strong> A very real AGI that can maybe help you with your predictions. maybe.</strong></p>
 
 ---
 
