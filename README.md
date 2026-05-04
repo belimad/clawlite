@@ -9,9 +9,9 @@
 
 ---
 
-## 🤖 The AGI Substrate
+## 🤖 The AGI entity
 
-Regent-Core is an autonomous cognitive engine that operates beyond task-specific narrow AI. It maps high-dimensional sensory tokens directly into executable logical actions, treating environmental inputs as dynamic state spaces to be fully modeled, parsed, and mastered.
+At its core, (real)AGI is an autonomous cognitive engine that operates beyond task-specific narrow AI. It maps high-dimensional sensory tokens directly into executable logical actions, treating environmental inputs as dynamic state spaces to be fully modeled, parsed, and mastered.
 
 ### 1. Belief Revision
 Instead of static classification, Regent maintains a continuous world model. It continuously updates its internal belief states about the environment ($H$) as real-time multi-modal tokens ($E$) are processed:
